@@ -13,7 +13,7 @@ title:               South Sudan Timeline
 tagline:             ' A timeline of significant events in the countrys history'
 description:         'Sources: <a href="http://www.bbc.co.uk">BBC</a> <br>Created by <a href="http:brianmcdonald.me">Brian Mc Donald</a> <br><br>This is an early-stage proof-of-concept. Its a work in progress and I take no responsibility for content accuracy or reliability.'
 url:                 http://brianmcdonald.github.io/SouthSudanTimeline/
-baseurl:             /SouthSudanTimeline
+baseurl:             /SouthSudanTimeline/
 paginate:            5
 
 # About/contact
