@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               South Sudan Timeline
+tagline:             ' A timeline of significant events in the countrys history'
+description:         'Sources: <a href="http://www.bbc.co.uk">BBC</a> <br>Created by <a href="http:brianmcdonald.me">Brian Mc Donald</a> <br><br>This is an early-stage proof-of-concept. Its a work in progress and I take no responsibility for content accuracy or reliability.'
+url:                 http://brianmcdonald.github.io/SouthSudanTimeline/
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Brian
+  url:               https://twitter.com/brianmcdonald01
+  email:             brian.mcdonald01@gmail.com
+
+# Custom vars
+version:             1.0.0
