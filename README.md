@@ -1,6 +1,6 @@
 # About
 
-A prrof of concept mini-site utilizing timeline.js
+A proof of concept mini-site utilizing timeline.js
 
 
 
